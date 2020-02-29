@@ -1,0 +1,14 @@
+R x
+10
++
+R f
+>
+5
+<
+go to exit
+L x
+10
+6
++
+=
+exit
